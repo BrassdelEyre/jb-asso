@@ -1,0 +1,35 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption: ""
+    chapters: 
+    - file: to-include
+  - caption: 📃 L`Association Brass` de l`Eyre
+    chapters: 
+    - file: Asso/Asso_Main
+    - file: Asso/Rejoins
+  - caption: 📃 Espace Adhérents
+    chapters: 
+    - file: Membres/Membres_Main
+    - file: Membres/Calendrier-brassage
+    - file: Membres/Documents/Doc_Main
+    - file: Membres/Outils
+  - caption: 💪 Groupes de travails
+    chapters: 
+    - file: Travail/Reglement-interieur
+    - file: Travail/Communication
+    - file: Travail/Sensibilisation-peda
+    - file: Travail/Brassage
+    - file: Travail/Partenariat
+    - file: Travail/Finances    
+  - caption: 📦 Annexes
+    chapters:
+    - file: Annex/References/bibliography
+
+
+    
+
+
